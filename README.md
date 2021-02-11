@@ -6,9 +6,8 @@ My intrests:
 - programer developer, for example to write code in a startup
 - develope and research in secinece for example to write a code for a machine that will be apart of madicine.
 
----
 
-##Technical Background
+## Technical Background
 
 I learned to program during my highschool(in Israel it is a diffrent way of learning)
 There I learn three years,
